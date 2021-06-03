@@ -3,6 +3,8 @@ import string
 import os
 from colorama import Fore
 
+os.system('pip install -r requirment.txt')
+
 
 class colors:
     starter = Fore.LIGHTBLUE_EX
